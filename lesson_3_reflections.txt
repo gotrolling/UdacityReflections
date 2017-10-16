@@ -1,1 +1,5 @@
 Creating a file so that I have something added that differs from my master branch.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are used when you want to clone a repository that you don't have permission to modify.  It will be a clone on the remote hosting service like GitHub.  Clones are used when you want to copy a repository locally but to be the best option you will likley need permission to write to the repository.  Branches are most likely used when you want to create an alternative path for development.
